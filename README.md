@@ -1,131 +1,108 @@
-🚀 Potiphar Gaye Vaye — Portfolio Website
-👨‍💻 Overview
+# **Potiphar Gaye Vaye — Portfolio Website**
 
-This project is a professional portfolio website developed by Potiphar Gaye Vaye, an aspiring software engineer passionate about building digital solutions for businesses, educational institutions, and organizations.
+---
+
+### 👨‍💻 **Overview**
+
+This project is a professional portfolio website developed by **Potiphar Gaye Vaye**, an aspiring software engineer passionate about building digital solutions for businesses, educational institutions, and organizations.
 
 The website showcases skills, experience, education, and projects while providing a real-time client interaction system through AI assistance and project consultation features.
 
 The platform focuses on:
 
-Digital transformation solutions
+* Digital transformation solutions
+* Professional service presentation
+* Client engagement automation
+* Real-time communication
+* Modern responsive design
 
-Professional service presentation
+---
 
-Client engagement automation
+### 🌐 **Live Features**
 
-Real-time communication  
+#### ✨ **Professional Portfolio System**
 
-Modern responsive design
+* Clean and responsive UI
+* Professional education & experience timeline
+* Skills and achievements display
+* Downloadable CV
+* Mobile-friendly design
 
-🌐 Live Features
-✨ Professional Portfolio System
+#### 🤖 **AI Chatbot Integration**
 
-Clean and responsive UI
+* Intelligent chatbot assistant
+* Real-time client support
+* Automated responses to common questions
+* Trained with personal and professional data
+* Enhances user experience and engagement
 
-Professional education & experience timeline
+#### 📩 **Project Consultation System**
 
-Skills and achievements display
+* Users submit project requests directly from the website
+* Requests stored securely in database
+* Real-time WhatsApp notification system
+* Client request tracking
 
-Downloadable CV
+#### 📱 **WhatsApp Real-Time Messaging Integration**
 
-Mobile-friendly design
+* Instant notification when a user submits a request
+* Automated consultation alerts
+* Improved communication workflow
 
-🤖 AI Chatbot Integration
+#### 🔐 **Backend System**
 
-Intelligent chatbot assistant
+* Secure database connection
+* Form validation and processing
+* Notification system
+* Clean PHP architecture
 
-Real-time client support
+---
 
-Automated responses to common questions
+### 🛠️ **Technologies Used**
 
-Trained with personal and professional data
+#### **Frontend**
 
-Enhances user experience and engagement
+* HTML5
+* CSS3
+* Bootstrap
+* JavaScript
+* Responsive Design
 
-📩 Project Consultation System
+#### **Backend**
 
-Users submit project requests directly from the website
+* PHP (Core PHP)
+* MySQL Database
+* AJAX (Form handling)
 
-Requests stored securely in database
+#### **Integrations**
 
-Real-time WhatsApp notification system
+* AI Chatbot Integration
+* WhatsApp Messaging API
+* Notification System
+* File Upload System
 
-Client request tracking
+#### **Development Tools**
 
-📱 WhatsApp Real-Time Messaging Integration
+* Git & GitHub
+* Laragon Local Environment
+* InfinityFree Hosting
+* phpMyAdmin
 
-Instant notification when a user submits a request
+---
 
-Automated consultation alerts
-
-Improved communication workflow
-
-🔐 Backend System
-
-Secure database connection
-
-Form validation and processing
-
-Notification system
-
-Clean PHP architecture
-
-🛠️ Technologies Used
-Frontend
-
-HTML5
-
-CSS3
-
-Bootstrap
-
-JavaScript
-
-Responsive Design
-
-Backend
-
-PHP (Core PHP)
-
-MySQL Database
-
-AJAX (Form handling)
-
-Integrations
-
-AI Chatbot Integration
-
-WhatsApp Messaging API
-
-Notification System
-
-File Upload System
-
-Development Tools
-
-Git & GitHub
-
-Laragon Local Environment
-
-InfinityFree Hosting
-
-phpMyAdmin
-
-🎯 Project Goals
+### 🎯 **Project Goals**
 
 This portfolio was developed to:
 
-Showcase software engineering skills
+* Showcase software engineering skills
+* Demonstrate real-world system development
+* Provide automated client communication
+* Support digital transformation initiatives
+* Build impactful solutions for African businesses and institutions
 
-Demonstrate real-world system development
+---
 
-Provide automated client communication
-
-Support digital transformation initiatives
-
-Build impactful solutions for African businesses and institutions
-
-💡 Key Highlights
+### 💡 **Key Highlights**
 
 ✅ Fully responsive professional design
 ✅ AI-powered chatbot assistant
@@ -134,16 +111,20 @@ Build impactful solutions for African businesses and institutions
 ✅ Secure database handling
 ✅ Modern UI/UX experience
 
-📍 Author
+---
 
-Potiphar Gaye Vaye
+### 📍 **Author**
+
+**Potiphar Gaye Vaye**
 Aspiring Software Engineer
 📍 Kigali, Rwanda
-📧 potiphargvaye@gmail.com
+📧 [potiphargvaye@gmail.com](mailto:potiphargvaye@gmail.com)
 
 💻 GitHub: https://github.com/Potiphargvaye
 
-📜 License
+---
 
-This project is developed for professional portfolio and educational purposes .
-All Right Recieved / Potiphar Gaye Vaye /
+### 📜 **License**
+
+This project is developed for professional portfolio and educational purposes.
+**All Rights Reserved — Potiphar Gaye Vaye**
