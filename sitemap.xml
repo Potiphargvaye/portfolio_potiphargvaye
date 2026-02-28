@@ -2,7 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>https://potiphargvaye.gt.tc/</loc>
+  <loc>https://potiphargvaye.gt.tc/</loc>
+  <priority>1.0</priority>
+</url>
+
+<url>
+  <loc>https://potiphargvaye.gt.tc/about-me.php</loc>
+  <priority>0.8</priority>
+</url>
+
+<url>
+  <loc>https://potiphargvaye.gt.tc/service-details.php</loc>
+  <priority>0.8</priority>
+</url>
+
+<url>
+  <loc>https://potiphargvaye.gt.tc/contact.php</loc>
+  <priority>0.8</priority>
+</url>
+
+<url>
+  <loc>https://potiphargvaye.gt.tc/portfolio-details.php</loc>
+  <priority>0.8</priority>
 </url>
 
 </urlset>
